@@ -1,0 +1,402 @@
+[
+    {
+        "correct": "Perro",
+        "incorrect": [
+            "Perrro",
+            "Pherro",
+            "Pehro"
+        ]
+    },
+    {
+        "correct": "Jardín",
+        "incorrect": [
+            "Jardin",
+            "Jardinn",
+            "Jardyn"
+        ]
+    },
+    {
+        "correct": "Casa",
+        "incorrect": [
+            "Caza",
+            "Cása",
+            "Caasa"
+        ]
+    },
+    {
+        "correct": "Gato",
+        "incorrect": [
+            "Gatto",
+            "Gatoo",
+            "Gaito"
+        ]
+    },
+    {
+        "correct": "Árbol",
+        "incorrect": [
+            "Arbol",
+            "Árrbol",
+            "Arrbol"
+        ]
+    },
+    {
+        "correct": "Estrella",
+        "incorrect": [
+            "Estrela",
+            "Estrellla",
+            "Estrelal"
+        ]
+    },
+    {
+        "correct": "Amarillo",
+        "incorrect": [
+            "Amarilo",
+            "Amarilloo",
+            "Amarilho"
+        ]
+    },
+    {
+        "correct": "Computadora",
+        "incorrect": [
+            "Computdora",
+            "Compputadora",
+            "Compudora"
+        ]
+    },
+    {
+        "correct": "Teléfono",
+        "incorrect": [
+            "Telefono",
+            "Télefono",
+            "Teleffono"
+        ]
+    },
+    {
+        "correct": "Biblioteca",
+        "incorrect": [
+            "Biblioteka",
+            "Bblioteca",
+            "Bilioteca"
+        ]
+    },
+    {
+        "correct": "Montaña",
+        "incorrect": [
+            "Montania",
+            "Montaňa",
+            "Montañaa"
+        ]
+    },
+    {
+        "correct": "Camión",
+        "incorrect": [
+            "Camion",
+            "Cámiion",
+            "Camyón"
+        ]
+    },
+    {
+        "correct": "Mariposa",
+        "incorrect": [
+            "Maripossa",
+            "Maryposa",
+            "Maripoxa"
+        ]
+    },
+    {
+        "correct": "Elefante",
+        "incorrect": [
+            "Elefantte",
+            "Eleffante",
+            "Elephante"
+        ]
+    },
+    {
+        "correct": "Lápiz",
+        "incorrect": [
+            "Lapiz",
+            "Lápis",
+            "Láapiz"
+        ]
+    },
+    {
+        "correct": "Escuela",
+        "incorrect": [
+            "Escuella",
+            "Esquela",
+            "Eskuela"
+        ]
+    },
+    {
+        "correct": "Reloj",
+        "incorrect": [
+            "Rreloj",
+            "Relojj",
+            "Relojs"
+        ]
+    },
+    {
+        "correct": "Avión",
+        "incorrect": [
+            "Avion",
+            "Abion",
+            "Abión"
+        ]
+    },
+    {
+        "correct": "Tren",
+        "incorrect": [
+            "Trein",
+            "Treen",
+            "Treyn"
+        ]
+    },
+    {
+        "correct": "Papel",
+        "incorrect": [
+            "Pappel",
+            "Papell",
+            "Papeel"
+        ]
+    },
+    {
+        "correct": "Pájaro",
+        "incorrect": [
+            "Pajaro",
+            "Pájjaro",
+            "Paajro"
+        ]
+    },
+    {
+        "correct": "Silla",
+        "incorrect": [
+            "Sillla",
+            "Sillaa",
+            "Sillah"
+        ]
+    },
+    {
+        "correct": "Flores",
+        "incorrect": [
+            "Floress",
+            "Florres",
+            "Florez"
+        ]
+    },
+    {
+        "correct": "Sol",
+        "incorrect": [
+            "Sool",
+            "Soll",
+            "Soolh"
+        ]
+    },
+    {
+        "correct": "Luna",
+        "incorrect": [
+            "Lluna",
+            "Luhna",
+            "Lunah"
+        ]
+    },
+    {
+        "correct": "Playa",
+        "incorrect": [
+            "Plaia",
+            "Plaaya",
+            "Playah"
+        ]
+    },
+    {
+        "correct": "Ángel",
+        "incorrect": [
+            "Angel",
+            "Ángell",
+            "Anggel"
+        ]
+    },
+    {
+        "correct": "Huevo",
+        "incorrect": [
+            "Huevvo",
+            "Hewo",
+            "Hwevo"
+        ]
+    },
+    {
+        "correct": "León",
+        "incorrect": [
+            "Lleon",
+            "Leónn",
+            "Lyón"
+        ]
+    },
+    {
+        "correct": "Guitarra",
+        "incorrect": [
+            "Guitara",
+            "Guitarraa",
+            "Guitaar"
+        ]
+    },
+    {
+        "correct": "Ojo",
+        "incorrect": [
+            "Ohjo",
+            "Ojoo",
+            "Ojho"
+        ]
+    },
+    {
+        "correct": "Delfín",
+        "incorrect": [
+            "Delfin",
+            "Delphín",
+            "Delfeenn"
+        ]
+    },
+    {
+        "correct": "Tomate",
+        "incorrect": [
+            "Tomaate",
+            "Toomate",
+            "Tomahte"
+        ]
+    },
+    {
+        "correct": "Uvas",
+        "incorrect": [
+            "Uvass",
+            "Ubas",
+            "Uvahs"
+        ]
+    },
+    {
+        "correct": "Ardilla",
+        "incorrect": [
+            "Ardillla",
+            "Ardiya",
+            "Ardylla"
+        ]
+    },
+    {
+        "correct": "Pan",
+        "incorrect": [
+            "Pann",
+            "Paan",
+            "Pahn"
+        ]
+    },
+    {
+        "correct": "Nube",
+        "incorrect": [
+            "Nubbe",
+            "Nuube",
+            "Nuhbe"
+        ]
+    },
+    {
+        "correct": "Lluvia",
+        "incorrect": [
+            "Lluviia",
+            "Lluviaa",
+            "Lluvvia"
+        ]
+    },
+    {
+        "correct": "Piscina",
+        "incorrect": [
+            "Pissina",
+            "Picina",
+            "Pisina"
+        ]
+    },
+    {
+        "correct": "Chocolate",
+        "incorrect": [
+            "Chocolatte",
+            "Chocolette",
+            "Chocolat"
+        ]
+    },
+    {
+        "correct": "Zapato",
+        "incorrect": [
+            "Ssapato",
+            "Zappato",
+            "Zapatoo"
+        ]
+    },
+    {
+        "correct": "Rana",
+        "incorrect": [
+            "Rrana",
+            "Raana",
+            "Rahna"
+        ]
+    },
+    {
+        "correct": "Dinosaurio",
+        "incorrect": [
+            "Dinosaurioo",
+            "Dinozaurio",
+            "Dinozaurioo"
+        ]
+    },
+    {
+        "correct": "África",
+        "incorrect": [
+            "Africaa",
+            "Aafrika",
+            "Afryca"
+        ]
+    },
+    {
+        "correct": "Viaje",
+        "incorrect": [
+            "Viage",
+            "Vijahe",
+            "Viajje"
+        ]
+    },
+    {
+        "correct": "Helado",
+        "incorrect": [
+            "Gelado",
+            "Jelado",
+            "Hhelado"
+        ]
+    },
+    {
+        "correct": "Medalla",
+        "incorrect": [
+            "Medalia",
+            "Medaya",
+            "Medallla"
+        ]
+    },
+    {
+        "correct": "Libro",
+        "incorrect": [
+            "Llibro",
+            "Liibro",
+            "Lybro"
+        ]
+    },
+    {
+        "correct": "Amigo",
+        "incorrect": [
+            "Amiggo",
+            "Amiigo",
+            "Amihgo"
+        ]
+    },
+    {
+        "correct": "Flores",
+        "incorrect": [
+            "Florees",
+            "Florres",
+            "Florez"
+        ]
+    }
+]

@@ -11,7 +11,7 @@ imprimirInquirer = async (data = [], contador) => {
 
     const question = {
         type: 'list',
-        message: `Palabra #${contador+1} de 10 \n`,
+        message: `Palabra #${contador + 1} de 10 \n`,
         name: 'palabras',
         choices
     }
@@ -20,6 +20,30 @@ imprimirInquirer = async (data = [], contador) => {
     return palabras
 }
 
+const continuarInq = async() => {
+    console.log('');
+    const aceptar = [
+        {
+            type: 'list',
+            name: 'enter',
+            message: 'Seleccione una opción',
+            choices: [
+                {
+                    value: '0',
+                    name: '1. Deseo Continuar',
+                },
+                {
+                    value: '1',
+                    name: '2. Deseo Salir',
+                }
+            ]
+        }
+    ]
+    const {enter}=await inquirer.prompt(aceptar)
+    return enter
+}
+
 module.exports = {
-    imprimirInquirer
+    imprimirInquirer,
+    continuarInq
 }
